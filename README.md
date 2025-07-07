@@ -1,3 +1,4 @@
+# MAZIER
 # GO tickets CRUD API
 A CRUD API that shows simple tasks such as create, retrieve, update, delete in context to GO tickets. Here we can create a new GO ticket for the passenger that includes the attributes such as ticket id, name, source, destination and ticket price etc. We can perform tasks like retrieving details using ticket id, update name or price and so on...
 
